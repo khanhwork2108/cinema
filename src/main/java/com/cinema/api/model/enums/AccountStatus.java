@@ -1,4 +1,4 @@
-package com.cinema.api.model.accountenum;
+package com.cinema.api.model.enums;
 
 public enum AccountStatus {
     ACTIVE,
